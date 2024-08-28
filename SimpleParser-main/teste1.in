@@ -1,0 +1,18 @@
+programa meuPrograma
+    declare x: text;
+    declare a: number;
+    declare b, c, d, e: real;
+    inicio
+    escreva("apenas"); 
+    leia(x);
+    a := 4;
+    c := 3.2;
+    d := a + c + x;
+    b := e;
+    leia(x);
+    leia(b);
+    escreva(a);
+    escreva(b);
+    escreva(d);
+fim
+fimprog
