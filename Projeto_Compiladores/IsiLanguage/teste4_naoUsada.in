@@ -1,0 +1,9 @@
+programa naoUsada
+
+declare x,y,z: number;
+inicio
+leia(x);
+leia(y);
+escreva("Fim do Programa");
+fim
+fimprog

@@ -1,0 +1,11 @@
+programa testeJaDecl
+
+declare x, y: number;
+declare x: double;
+inicio
+leia(x);
+leia(y);
+escreva(x);
+escreva(y);
+fim
+fimprog

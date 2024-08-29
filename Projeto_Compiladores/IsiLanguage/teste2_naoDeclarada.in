@@ -1,0 +1,10 @@
+programa testePrograma2
+    declare x: text;
+    declare a: number;
+inicio
+leia(a);
+leia(x);
+leia(b);
+escreva("teste");
+fim
+fimprog

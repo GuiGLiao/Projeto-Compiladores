@@ -1,0 +1,17 @@
+programa testeWhileprog
+    declare x: text;
+    declare a, b: number;
+    inicio
+    a := 1;
+    b := 10;
+    enquanto(a < b)
+
+    {
+     a := a + 1;
+     escreva(a);
+     b := b- 1;
+    }
+    escreva(a);
+    escreva(b);
+fim
+fimprog

@@ -1,0 +1,22 @@
+programa teste5
+	declare a,b: number;
+	declare x,y: text;
+	inicio
+		leia(x);
+		leia(y);
+		leia(a);
+		leia(b);
+		escreva(a);
+		se (a > 5) entao
+			escreva("maior que 5");
+		senao
+		    escreva("menor que 5");
+		fimse
+
+		se (b >= 0) entao
+		   escreva("b positivo");
+		senao
+		   escreva("b negativo");
+		fimse
+	fim
+fimprog

@@ -1,0 +1,12 @@
+programa testeDo
+declare a, b ,c: number;
+inicio
+a := 32;
+b := 13;
+c := 1;
+execute{
+  	escreva(c);
+  	c := c + 1;
+  } ate(c <= 10)
+fim
+fimprog

@@ -1,0 +1,10 @@
+programa tiposDiferentes
+
+declare x,y: number;
+declare z: text;
+inicio
+leia(x);
+leia(z);
+y := x + z;
+fim
+fimprog

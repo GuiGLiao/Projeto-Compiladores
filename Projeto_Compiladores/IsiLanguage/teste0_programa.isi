@@ -1,0 +1,17 @@
+programa testePrograma1
+    declare x: text;
+    declare a, b, c, d: number;
+    inicio
+    escreva("Teste 1"); 
+    leia(x);
+    leia(a);
+    leia(b);
+    a := 4;
+    b := 5;
+    c := 3;
+    d := a + b;
+    escreva(x);
+    escreva(a);
+    escreva(b);
+fim
+fimprog

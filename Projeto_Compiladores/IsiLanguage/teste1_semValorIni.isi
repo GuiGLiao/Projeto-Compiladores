@@ -1,0 +1,9 @@
+programa semValor
+    declare x: text;
+    declare a, b: number;
+inicio
+leia(a);
+leia(x);
+escreva(b);
+fim
+fimprog

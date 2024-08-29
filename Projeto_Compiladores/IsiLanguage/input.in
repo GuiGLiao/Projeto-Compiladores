@@ -1,0 +1,21 @@
+programa inputProgram
+    declare a, b, c : number;
+    declare x, y, z : text;
+    inicio
+    	escreva("Hello World");
+    	leia(x);
+    	leia(a);
+		leia(b);
+    	escreva(a);
+		a := 2 + 3.14 - 5 * 8.56 / a - a *	a;
+		b := 123;
+		se ( a > 5 ) entao
+	   		escreva(" a maior que 5");
+ 		senao
+ 	   		escreva(" a menor ou igual a 5");
+		fimse
+	
+		escreva("O Resultado vale");
+		escreva(a);
+	fim
+fimprog
