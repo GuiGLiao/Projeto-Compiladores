@@ -4,9 +4,10 @@ Projeto final para a matéria de Compiladores 2024.2
 O compilador faz a conversão da linguagem IsiLanguage para a linguagem Java.
 
 Integrantes:
-1.  
-2.  
-3.  
+
+1.  Daniel Kenzo Iwata / RA: 11201921122
+2.  Guilherme Gimenes Liao / RA: 11201920847
+3.  Pedro Henrique Faria de Souza / RA: 11201921248
 
 Link para vídeo:
 
