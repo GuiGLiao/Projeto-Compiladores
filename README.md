@@ -9,7 +9,7 @@ Integrantes:
 2.  Guilherme Gimenes Liao / RA: 11201920847
 3.  Pedro Henrique Faria de Souza / RA: 11201921248
 
-Link para vídeo:
+Link para vídeo: https://www.youtube.com/watch?v=GxFUY2_0v4s
 
 O Projeto possui todos os itens obrigatórios definidos pelo professor:
 - Possui 2 tipos de variáveis✅
