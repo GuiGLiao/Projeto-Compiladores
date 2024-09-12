@@ -20,7 +20,7 @@ O Projeto possui todos os itens obrigatórios definidos pelo professor:
 - Aceita números decimais✅
 - Verificar se a variável já foi previamente declarada✅
 - Verificar se a variável foi declarada e não foi usada✅
-- Verificar se uma variável está sendo usada sem ter valor inicia ✅
+- Verificar se uma variável está sendo usada sem ter valor inicial ✅
 
 Todos os códigos da IsiLanguage(.isi) foram testados e seus programas .java estão disponíveis para teste.
 
